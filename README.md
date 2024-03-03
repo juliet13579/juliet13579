@@ -6,8 +6,8 @@
 
 ### Hi there 👋
 
-<a href="#none" target="_blank"><img src="https://img.shields.io/badge/Python?style=square&logo=python&logoColor=3776AB"/></a>
-<a href="#none" target="_blank"><img src="https://img.shields.io/badge/PyTorch?style=square&logo=pytorch&logoColor=EE4C2C"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/python-000000?style=square&logo=python&logoColor=3776AB"/></a>
+<a href="#none" target="_blank"><img src="https://img.shields.io/badge/pytorch-000000?style=square&logo=pytorch&logoColor=EE4C2C"/></a>
 
 <!--
 **juliet13579/juliet13579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
