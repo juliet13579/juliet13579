@@ -2,7 +2,7 @@
 ### Hi there 👋
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=8af024&height=300&section=header&text=Heejin's%20Space&fontSize=90" />
+![header](https://capsule-render.vercel.app/api?type=venom&color=8af024&fontColor=FFFFFF&height=300&section=header&text=Heejin's%20Space&fontSize=60)
 
 <!--
 **juliet13579/juliet13579** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
