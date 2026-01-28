@@ -15,6 +15,6 @@ Recently, I'm particularly interested in multimodal learning and Lyapunov-based 
 
 ---
 
-## Related Publication
+## Publication
 - *On the Optimal Ensemble of Distributed DNN Models*  
   [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11123186)
