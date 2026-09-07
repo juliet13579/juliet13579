@@ -2,7 +2,7 @@
 
 Hello! I'm a researcher and developer interested in problems where **machine learning** meets **networked and distributed systems**.  
 My research focuses on collaborative inference in distributed environments, model ensembles, and optimization.  
-Recently, I'm particularly interested in multimodal learning and Lyapunov-based analysis.
+Recently, I'm particularly interested in asynchronous multimodal inference.
 
 ---
 
